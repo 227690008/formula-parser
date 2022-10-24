@@ -14,19 +14,19 @@ Supports:
 * Numbers with decimal point '.'
 * Numbers in E notation
 * Constants: pi, e, Inf
-* Functions: sqrt, abs, sin, cos, tan, log, exp
+* Functions: sqrt, abs, sin, cos, tan, log, exp, floor, ceil
 * Unlimited nested parentheses
 * NaN (Not a Number)
 
 Installation
 ------------
 
-Requires [PHP 5.4 or higher](http://php.net).
+Requires [PHP 7.4 or higher](http://php.net).
 
 To install with [Composer](https://getcomposer.org):
 
 ``` sh
-composer require denissimon/formula-parser
+composer require 227690008/formula-parser
 ```
 
 Usage
