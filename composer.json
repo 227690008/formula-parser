@@ -1,5 +1,5 @@
 {
-	"name":        "denissimon/formula-parser",
+	"name":        "227690008/formula-parser",
 	"description": "Parsing and evaluating mathematical formulas given as strings.",
 	"keywords":    ["parser", "parsing", "evaluation", "formula", "expression", "math"],
 	"license":     "MIT",
