@@ -2,7 +2,7 @@ Formula Parser
 ==============
 
 
-测试及自用，小部分增加部分和函数，请勿使用。
+测试及自用，增加部分函数，请勿使用。
 Test and self use, small parts and functions are added, please do not use.
 From：denissimon/formula-parser
 
@@ -22,7 +22,7 @@ Supports:
 Installation
 ------------
 
-Requires [PHP 7.4 or higher](http://php.net).
+Requires [PHP 7.3 or higher](http://php.net).
 
 To install with [Composer](https://getcomposer.org):
 
